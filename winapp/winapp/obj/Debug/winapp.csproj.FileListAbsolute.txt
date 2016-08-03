@@ -1,0 +1,8 @@
+C:\Users\Boldizs Dávid\Documents\SharpDevelop Projects\winapp\winapp\obj\Debug\winapp.csprojResolveAssemblyReference.cache
+C:\Users\Boldizs Dávid\Documents\SharpDevelop Projects\winapp\winapp\obj\Debug\winapp.MainForm.resources
+C:\Users\Boldizs Dávid\Documents\SharpDevelop Projects\winapp\winapp\obj\Debug\winapp.csproj.GenerateResource.Cache
+C:\Users\Boldizs Dávid\Documents\SharpDevelop Projects\winapp\winapp\bin\Debug\winapp.exe.config
+C:\Users\Boldizs Dávid\Documents\SharpDevelop Projects\winapp\winapp\bin\Debug\winapp.exe
+C:\Users\Boldizs Dávid\Documents\SharpDevelop Projects\winapp\winapp\bin\Debug\winapp.pdb
+C:\Users\Boldizs Dávid\Documents\SharpDevelop Projects\winapp\winapp\obj\Debug\winapp.exe
+C:\Users\Boldizs Dávid\Documents\SharpDevelop Projects\winapp\winapp\obj\Debug\winapp.pdb
