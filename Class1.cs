@@ -15,7 +15,7 @@ namespace consoleapp
 	/// </summary>
 	public class Class1
 	{
-		
+	//ez itt apa kommentje	
 		enum Days
 		{
 			Sun,
