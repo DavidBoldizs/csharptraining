@@ -1,0 +1,6 @@
+C:\Users\boldizsdavid\Documents\SharpDevelop Projects\sol2\project2\obj\Debug\project2.csprojResolveAssemblyReference.cache
+C:\Users\boldizsdavid\Documents\SharpDevelop Projects\sol2\project2\bin\Debug\project2.exe.config
+C:\Users\boldizsdavid\Documents\SharpDevelop Projects\sol2\project2\bin\Debug\project2.exe
+C:\Users\boldizsdavid\Documents\SharpDevelop Projects\sol2\project2\bin\Debug\project2.pdb
+C:\Users\boldizsdavid\Documents\SharpDevelop Projects\sol2\project2\obj\Debug\project2.exe
+C:\Users\boldizsdavid\Documents\SharpDevelop Projects\sol2\project2\obj\Debug\project2.pdb
