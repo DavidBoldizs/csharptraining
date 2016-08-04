@@ -1,0 +1,6 @@
+C:\Users\boldizs\Documents\SharpDevelop Projects\start\start\bin\Debug\start.exe.config
+C:\Users\boldizs\Documents\SharpDevelop Projects\start\start\bin\Debug\start.exe
+C:\Users\boldizs\Documents\SharpDevelop Projects\start\start\bin\Debug\start.pdb
+C:\Users\boldizs\Documents\SharpDevelop Projects\start\start\obj\Debug\start.exe
+C:\Users\boldizs\Documents\SharpDevelop Projects\start\start\obj\Debug\start.pdb
+C:\Users\boldizs\Documents\SharpDevelop Projects\start\start\obj\Debug\start.csprojResolveAssemblyReference.cache

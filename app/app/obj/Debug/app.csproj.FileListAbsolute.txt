@@ -1,0 +1,6 @@
+C:\Users\boldizs\Documents\SharpDevelop Projects\app\app\bin\Debug\app.exe.config
+C:\Users\boldizs\Documents\SharpDevelop Projects\app\app\bin\Debug\app.exe
+C:\Users\boldizs\Documents\SharpDevelop Projects\app\app\bin\Debug\app.pdb
+C:\Users\boldizs\Documents\SharpDevelop Projects\app\app\obj\Debug\app.csprojResolveAssemblyReference.cache
+C:\Users\boldizs\Documents\SharpDevelop Projects\app\app\obj\Debug\app.exe
+C:\Users\boldizs\Documents\SharpDevelop Projects\app\app\obj\Debug\app.pdb
