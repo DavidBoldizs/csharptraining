@@ -12,6 +12,12 @@ namespace masodik
 {
 	class Program
 	{
+		struct alma
+		{
+			public string szin;
+			public string meret;
+			public string fajta;
+		}
 		enum csapatok {
 	Ferencváros,	
 	Videoton,	
@@ -62,8 +68,40 @@ namespace masodik
 			Console.ReadKey(true);
 			Console.WriteLine(kettő);
 			Console.WriteLine(f);
+			Console.ReadKey(true);
 			
-			
+			int [] numbers;
+			numbers = new int[]{1,2,3,4,5,6,7,8,9,10};
+			int max = numbers[0];
+            for(int x=0;x<numbers.Length;x++)
+            	
+            	if(numbers[x] > max)
+            		max=numbers[x];
+            Console.WriteLine("1,2,3,4,5,6,7,8,9,10");
+            Console.WriteLine("Legnagyobb elem :" + max);
+            Console.ReadKey(true);
+            
+            alma q=new alma();
+            q.fajta="gyumolcs";
+            q.meret="kicsi";
+            q.szin="piros";
+            Console.WriteLine("Az alma egy:");
+            Console.WriteLine(q.meret); 
+            Console.WriteLine(q.szin);
+            Console.WriteLine(q.fajta);
+            Console.ReadKey(true);
+            
+            foci y=new foci();
+            y.GetResult();
+            Console.ReadKey(true);
+            
+            beolvas u=new beolvas();
+            u.GetRight();
+            Console.ReadKey(true);
+            
+            hossz l= new hossz();
+            l.GetLongest();
+            	
 			Console.Write("Press any key to continue . . . ");
 			Console.ReadKey(true);
 		}
