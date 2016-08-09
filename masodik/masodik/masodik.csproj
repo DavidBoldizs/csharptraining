@@ -48,6 +48,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="beolvas.cs" />
+    <Compile Include="foci.cs" />
+    <Compile Include="hossz.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
