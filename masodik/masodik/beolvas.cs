@@ -41,5 +41,24 @@ namespace masodik
 			}
 		
 }
+		public void GetSum()
+		{
+			int i = 10;
+			int total = 0;
+			while (i < 100) {
+				i += 2;
+				total += i;
+			}
+			Console.WriteLine("Összeg: " + total);
+			Console.ReadKey(true);
+			
+			 double atlag = 0;
+            int darab = total / 2;
+            for (int w = 0; w<100; w+=2)
+            {
+                atlag += total / darab;
+            }
+            Console.WriteLine("Átlag:" + atlag);
+		}
 }
 }

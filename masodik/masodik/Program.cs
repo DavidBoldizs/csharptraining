@@ -97,6 +97,7 @@ namespace masodik
             
             beolvas u=new beolvas();
             u.GetRight();
+            u.GetSum();
             Console.ReadKey(true);
             
             hossz l= new hossz();
