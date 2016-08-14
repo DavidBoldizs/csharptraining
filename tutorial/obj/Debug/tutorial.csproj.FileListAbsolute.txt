@@ -1,6 +1,0 @@
-C:\Users\boldizs\tutorial\bin\Debug\tutorial.exe.config
-C:\Users\boldizs\tutorial\bin\Debug\tutorial.exe
-C:\Users\boldizs\tutorial\bin\Debug\tutorial.pdb
-C:\Users\boldizs\tutorial\obj\Debug\tutorial.csprojResolveAssemblyReference.cache
-C:\Users\boldizs\tutorial\obj\Debug\tutorial.exe
-C:\Users\boldizs\tutorial\obj\Debug\tutorial.pdb
