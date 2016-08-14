@@ -1,8 +1,8 @@
 ﻿/*
  * Created by SharpDevelop.
- * User: boldizsdavid
- * Date: 2016.08.09.
- * Time: 11:04
+ * User: boldizs
+ * Date: 2016.08.14.
+ * Time: 13:31
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
@@ -11,7 +11,7 @@ using System;
 namespace masodik
 {
 	/// <summary>
-	/// Description of foci.
+	/// A forduló összpontszáma alapján eldönti a végeredményt.
 	/// </summary>
 	public class foci
 	{
