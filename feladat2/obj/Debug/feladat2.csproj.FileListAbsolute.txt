@@ -1,6 +1,0 @@
-C:\Users\boldizs\feladat2\obj\Debug\feladat2.csprojResolveAssemblyReference.cache
-C:\Users\boldizs\feladat2\bin\Debug\feladat2.exe.config
-C:\Users\boldizs\feladat2\bin\Debug\feladat2.exe
-C:\Users\boldizs\feladat2\bin\Debug\feladat2.pdb
-C:\Users\boldizs\feladat2\obj\Debug\feladat2.exe
-C:\Users\boldizs\feladat2\obj\Debug\feladat2.pdb
