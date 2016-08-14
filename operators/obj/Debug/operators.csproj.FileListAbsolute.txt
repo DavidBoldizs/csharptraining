@@ -1,6 +1,0 @@
-C:\Users\boldizs\operators\obj\Debug\operators.csprojResolveAssemblyReference.cache
-C:\Users\boldizs\operators\bin\Debug\operators.exe.config
-C:\Users\boldizs\operators\bin\Debug\operators.exe
-C:\Users\boldizs\operators\bin\Debug\operators.pdb
-C:\Users\boldizs\operators\obj\Debug\operators.exe
-C:\Users\boldizs\operators\obj\Debug\operators.pdb
