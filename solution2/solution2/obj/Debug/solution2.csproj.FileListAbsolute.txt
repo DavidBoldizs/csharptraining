@@ -1,6 +1,0 @@
-C:\Users\boldizs\Documents\SharpDevelop Projects\solution2\solution2\bin\Debug\solution2.exe.config
-C:\Users\boldizs\Documents\SharpDevelop Projects\solution2\solution2\bin\Debug\solution2.exe
-C:\Users\boldizs\Documents\SharpDevelop Projects\solution2\solution2\bin\Debug\solution2.pdb
-C:\Users\boldizs\Documents\SharpDevelop Projects\solution2\solution2\obj\Debug\solution2.csprojResolveAssemblyReference.cache
-C:\Users\boldizs\Documents\SharpDevelop Projects\solution2\solution2\obj\Debug\solution2.exe
-C:\Users\boldizs\Documents\SharpDevelop Projects\solution2\solution2\obj\Debug\solution2.pdb
